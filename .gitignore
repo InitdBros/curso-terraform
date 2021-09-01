@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+.terraform
+.git
+terraform.tfstate.backup
+terraform.tfstate
